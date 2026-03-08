@@ -2,6 +2,8 @@
 
 This project provides a complete set of 3D printable adapters and components to build a custom, high-efficiency fume extractor and filtration system. It integrates a VIVOSUN inline fan, a MANN-FILTER cabin air filter, and a standard 2-1/2" flexible dust collection hose.
 
+![assembly](assembly.png)
+
 ## Bill of Materials (BOM)
 
 ### Commercial Components
